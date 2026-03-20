@@ -1,4 +1,5 @@
 ## Fix Microsoft Office Activation using OSPPREARM
+<img width="1280" height="593" alt="image" src="https://github.com/user-attachments/assets/418a36e8-4f69-4d58-b02d-508b36ab2016" />
 
 ### Step 1: Open Command Prompt as Administrator
 
@@ -82,6 +83,8 @@ Microsoft Office rearm successful.
 <img width="840" height="104" alt="image" src="https://github.com/user-attachments/assets/32466d1d-b947-4bfb-ad38-5dc75e1d2207" />
 
 Restart Microsoft Office applications.
+<img width="1357" height="704" alt="image" src="https://github.com/user-attachments/assets/bef8490f-dfc4-4901-a360-3cca7306a8cd" />
+
 
 ---
 
